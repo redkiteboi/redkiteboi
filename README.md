@@ -46,11 +46,11 @@ Want to see some of my work? Just click one of the links below, silly.
 
 <h2>:video_game: Games</h2>
 <div align="center">
-    <a href="https://redkitedev.itch.io/cosmic-crescendo" target="_blank"><img src="https://img.itch.zone/aW1nLzExMjgwNDA0LnBuZw==/315x250%23c/FbDUlb.png" width="26.75%" alt="Cosmic Crescendo by redkite, 4BackSlash, gepax, Windixy"/></a>
-    &emsp;
-    <a href="https://redkitedev.itch.io/floaterz" target="_blank"><img src="https://img.itch.zone/aW1nLzExMjAxMTYzLnBuZw==/315x250%23c/zgAbi0.png" width="26.75%" alt="Floaterz by redkite"/></a>
-    &emsp;
-    <a href="https://redkitedev.itch.io" target="_blank"><img src="https://github.com/redkiteboi/redkiteboi/assets/124394220/7522c7bf-b4ab-47e4-929e-d19b9b0c63e0" width="26.75%" alt="redkite on itch.io"/></a>
+  <a href="https://redkitedev.itch.io/flight-over-little-island" target="_blank"><img src="https://img.itch.zone/aW1nLzE0NzEyMDc3LnBuZw==/315x250%23c/vnDQbV.png" width="26.75%" alt="redkite on itch.io"/></a>
+  &emsp;
+  <a href="https://redkitedev.itch.io/cosmic-crescendo" target="_blank"><img src="https://img.itch.zone/aW1nLzExMjgwNDA0LnBuZw==/315x250%23c/FbDUlb.png" width="26.75%" alt="Cosmic Crescendo by redkite, 4BackSlash, gepax, Windixy"/></a>
+  &emsp;
+  <a href="https://redkitedev.itch.io/floaterz" target="_blank"><img src="https://img.itch.zone/aW1nLzExMjAxMTYzLnBuZw==/315x250%23c/zgAbi0.png" width="26.75%" alt="Floaterz by redkite"/></a>
 </div>
 
 <h2>:bar_chart: Statistics</h2>
